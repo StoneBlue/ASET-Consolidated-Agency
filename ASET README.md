@@ -1,5 +1,5 @@
 
-##     Welcome to
+## Welcome to
 # **ASET Consolidated**
 
 Your one-stop shop, where we have dusted off and provided a comprehensive collection of ASET mods created by alexustas.
@@ -12,3 +12,20 @@ Your one-stop shop, where we have dusted off and provided a comprehensive collec
 
   - ASET Avionics
   - ASET Props
+
+* Full IVAs:
+  - *For stock parts*
+    - ASET IVA- Mk1 Cockpit
+    - ASET IVA- Mk1 Lander Can
+    - ASET IVA- Mk1-2 Pod
+    - ASET IVA- Mk3 Pod
+    - ASET IVA- Making History Extended* (*Requires* installation of the Making History DLC)
+
+  - *For mod parts*
+    - ASET IVA- ALCOR* (*Requires* installation of the ASET ALCOR part, listed below)
+
+* Part Mods
+  - ASET ALCOR
+
+
+
