@@ -10,7 +10,7 @@ Your one-stop shop, where we have dusted off and provided a comprehensive collec
 
 ### * Props for IVAs:
 
-  - ASET Avionics
+  - [ASET Avionics]
   - ASET Props
 
 ### * Full IVAs:
@@ -20,7 +20,7 @@ Your one-stop shop, where we have dusted off and provided a comprehensive collec
     - ASET IVA- Mk1-2 Pod
     - ASET IVA- Mk3 Pod
 
-####  - *For mod parts*
+  - *For mod parts*
         - ASET IVA- ALCOR* (*Requires* installation of the ASET ALCOR part, listed below)
 
 ### * Part Mods
@@ -29,7 +29,7 @@ Your one-stop shop, where we have dusted off and provided a comprehensive collec
   - ASET Dock-o-Matic Bright Ports
 
 
-
+### ASET Avionics
 
 
 
