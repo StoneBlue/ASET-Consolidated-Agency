@@ -10,7 +10,7 @@ Your one-stop shop, where we have dusted off and provided a comprehensive collec
 
 ### * Props for IVAs:
 
-  - [ASET Avionics]
+  - ASET Avionics[ASET Avionics]
   - ASET Props
 
 ### * Full IVAs:
