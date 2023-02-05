@@ -34,6 +34,45 @@ https://i.imgur.com/RTxro1yl.png
 
 [ASET Avionics Images](https://imgur.com/a/RfEes)
 
+#### List of inc. props:
+```
+    Altitude indicator (ASL)
+    Radio Altimeter
+    Air Speed Indicator (EAS)
+    Mach Number gauge
+    Vertical Speed Indicator
+    Heading gauge
+    Turn Coordinator
+    Dynamic Pressure gauge
+    Temperature gauges (Engine, Skin, Internal, Enviroment and Surface)
+    Ground Speed Indicator
+    Artificial Horizon Indicator
+    RMI
+    HSI
+    Navigation Radio Units
+    Comm RAdio Unit
+    DME Unit
+    AoA gauge
+    Trim Indicator
+    Throttle/Thrust gauge
+    G-meter
+    Compass
+    Battery charge gauge
+    Fuel/Air Flow gauge
+    Fuel Quantity gauge
+    Flaps setting indicator
+    Gear Lever
+    Brake Force gauge
+    Engine mode toggle switch
+    Engine Reverce toggle switch
+    GPS Display
+    Power Supply Display
+    Flaps control lever (FAR)
+    Spoilers lever (FAR)
+    Yoke
+    Heads-Up Display
+    "Boeing"-style Toggle and Rotary switches
+```
 
 ### ASET Props Pack
 
