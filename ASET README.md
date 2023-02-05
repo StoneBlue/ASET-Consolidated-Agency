@@ -19,7 +19,7 @@ Your one-stop shop, where we have dusted off and provided a comprehensive collec
     - ASET IVA- Mk1-2 Pod
     - ASET IVA- Mk3 Pod
 
-### * Part Mods
+### Parts:
   - ASET ALCOR
   - ASET Landing Leg
   - ASET Dock-o-Matic Bright Ports
