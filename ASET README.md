@@ -9,8 +9,8 @@ Your one-stop shop, where we have dusted off and provided a comprehensive collec
 
 ### Props for IVAs:
 
-  - ASET Avionics
-  - ASET Props
+  - ASET Avionics Pack
+  - ASET Props Pack
 
 ### IVAs Only:
   - *For stock parts:
@@ -25,7 +25,14 @@ Your one-stop shop, where we have dusted off and provided a comprehensive collec
   - ASET Dock-o-Matic Bright Ports
 
 
-### ASET Avionics
+### ASET Avionics Pack
+
+A props pack consisting of mostly Aircraft-style controls, instruments & gauges, both "modern" & "classic" in style.
+Note: This pack does nothing on its own, as it is just a pack of assets, and *requires* the installation of a seperate "IVA mod" which utilizes it.
+
+https://i.imgur.com/RTxro1yl.png
+
+Full album: ASET Avionics Images[https://imgur.com/a/RfEes]
 
 
 ### ASET Props Pack
