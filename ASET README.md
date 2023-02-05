@@ -13,7 +13,7 @@ Your one-stop shop, where we have dusted off and provided a comprehensive collec
   - ASET Props Pack
 
 ### IVAs Only:
-  - *For stock parts:
+  - #### For stock parts:
     - ASET IVA- Mk1 Cockpit
     - ASET IVA- Mk1 Lander Can
     - ASET IVA- Mk1-2 Pod
@@ -23,6 +23,7 @@ Your one-stop shop, where we have dusted off and provided a comprehensive collec
   - ASET ALCOR
   - ASET Landing Leg
   - ASET Dock-o-Matic Bright Ports
+
 
 
 ### ASET Avionics Pack
@@ -73,7 +74,6 @@ https://i.imgur.com/RTxro1yl.png
     Heads-Up Display
     "Boeing"-style Toggle & Rotary Switches
 ```
-
 #### Required Dependencies:
   - [ModuleManager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-18x-112x-module-manager-422-june-18th-2022-the-heatwave-edition/)</br>
       *NOTE: *ONLY* game installs having this version of MM are supported. *NO SUPPORT PROVIDED* for installs having any other fork of MM installed
