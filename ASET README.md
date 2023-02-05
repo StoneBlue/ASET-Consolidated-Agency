@@ -7,12 +7,12 @@ Your one-stop shop, where we have dusted off and provided a comprehensive collec
 
 ## Our Products:
 
-### * Props for IVAs:
+### <u>Props for IVAs:</u>
 
-  - <b>ASET Avionics<b></br>
-  - <b>ASET Props<b>
+  - <b>ASET Avionics</b></br>
+  - <b>ASET Props</b>
 
-### * Full IVAs:
+### <u>Full IVAs:</u>
   - *For stock parts*
     - ASET IVA- Mk1 Cockpit
     - ASET IVA- Mk1 Lander Can
