@@ -36,42 +36,42 @@ https://i.imgur.com/RTxro1yl.png
 
 #### List of inc. props:
 ```
-    Altitude indicator (ASL)
+    Altitude Indicator (ASL)
     Radio Altimeter
     Air Speed Indicator (EAS)
-    Mach Number gauge
+    Mach Number Gauge
     Vertical Speed Indicator
-    Heading gauge
+    Heading Gauge
     Turn Coordinator
-    Dynamic Pressure gauge
-    Temperature gauges (Engine, Skin, Internal, Enviroment and Surface)
+    Dynamic Pressure Gauge
+    Temperature Gauges (Engine, Skin, Internal, Enviroment & Surface)
     Ground Speed Indicator
     Artificial Horizon Indicator
     RMI
     HSI
     Navigation Radio Units
-    Comm RAdio Unit
+    Comm Radio Unit
     DME Unit
-    AoA gauge
+    AoA Gauge
     Trim Indicator
-    Throttle/Thrust gauge
+    Throttle/Thrust Gauge
     G-meter
     Compass
-    Battery charge gauge
-    Fuel/Air Flow gauge
-    Fuel Quantity gauge
-    Flaps setting indicator
+    Battery Charge Gauge
+    Fuel/Air Flow Gauge
+    Fuel Quantity Gauge
+    Flaps Setting Indicator
     Gear Lever
-    Brake Force gauge
-    Engine mode toggle switch
-    Engine Reverce toggle switch
+    Brake Force Gauge
+    Engine Mode Toggle Switch
+    Engine Reverse Toggle Switch
     GPS Display
     Power Supply Display
-    Flaps control lever (FAR)
-    Spoilers lever (FAR)
+    Flaps Control Lever (FAR)
+    Spoilers Lever (FAR)
     Yoke
     Heads-Up Display
-    "Boeing"-style Toggle and Rotary switches
+    "Boeing"-style Toggle & Rotary Switches
 ```
 
 ### ASET Props Pack
