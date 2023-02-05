@@ -75,13 +75,13 @@ https://i.imgur.com/RTxro1yl.png
 ```
 
 #### Required Dependencies:
-  - [ModuleManager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-18x-112x-module-manager-422-june-18th-2022-the-heatwave-edition/)
+  - [ModuleManager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-18x-112x-module-manager-422-june-18th-2022-the-heatwave-edition/)</br>
       *NOTE: *ONLY* game installs having this version of MM are supported. *NO SUPPORT PROVIDED* for installs having any other fork of MM installed
   - [ASET Props Pack]()
   
   * Also requires at least *ONE* of these, depending on what each specific IVA mod you are using requires
     - [RasterPropMonitor Adopted (RPM)](https://forum.kerbalspaceprogram.com/index.php?/topic/190737-18x-112x-rasterpropmonitor-adopted/)
-    - [MOARdV's Avionics System (MAS)](https://forum.kerbalspaceprogram.com/index.php?/topic/160856-wip-112x-moardvs-avionics-systems-mas-interactive-iva-v136-1-february-2023/page/27/)
+    - [MOARdV's Avionics System (MAS)](https://forum.kerbalspaceprogram.com/index.php?/topic/160856-wip-112x-moardvs-avionics-systems-mas-interactive-iva-v136-1-february-2023/page/27/)</br>
        *NOTE: MAS itself includes many stock IVA replacements which use the ASET Avionics props, included in its /FlightSystems folder
 
 #### Recommended Mods:
