@@ -5,7 +5,6 @@
 Your one-stop shop, where we have dusted off and provided a comprehensive collection of ASET mods created by alexustas.
 
 
-
 ## Our Catalog:
 
 * Props for IVAs:
@@ -15,15 +14,12 @@ Your one-stop shop, where we have dusted off and provided a comprehensive collec
 
 * Full IVAs:
   - *For stock parts*
-    - ASET IVA- Mk1 Cockpit
-    - ASET IVA- Mk1 Lander Can
-    - ASET IVA- Mk3 Pod
+    - ASET Consolidated Stock Replacement IVAs
 
   - *For mod parts*
     - ASET IVA- ALCOR* (*Requires* installation of the ASET ALCOR part, listed below)
 
 * Part Mods
   - ASET ALCOR
-
 
 
